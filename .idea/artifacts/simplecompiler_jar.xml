@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="simplecompiler:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/simplecompiler_jar</output-path>
+    <root id="archive" name="simplecompiler.jar">
+      <element id="module-output" name="simplecompiler" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
